@@ -100,13 +100,3 @@ Dự án này đã hoàn chỉnh các chức năng cơ bản:
 * Đăng nhập
 * Bảo vệ route
 * Đăng xuất
-
-Tất cả test case đã được chạy và lưu trong thư mục `public/results/` như yêu cầu.
-
-```
-
----
-
-Bạn muốn mình để **link dạng ảnh hiển thị luôn** (như trên) hay chỉ để **text link click vào** thôi?
-```
-****
