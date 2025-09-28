@@ -49,7 +49,7 @@ http://localhost:3000
 * Route: `GET /register` và `POST /register`
 * Cho phép người dùng đăng ký tài khoản mới
 
-![Register](http://localhost:3000/public/results/register.png)
+![Register](./public/results/register.png)
 
 * Sau khi đăng ký, có thể kiểm tra dữ liệu đã lưu trong MongoDB:
   ![Show Users in MongoDB](http://localhost:3000/public/results/show_users_mongodb_register.png)
