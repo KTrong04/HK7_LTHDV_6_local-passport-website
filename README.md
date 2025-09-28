@@ -1,11 +1,9 @@
-````markdown
+
 # Local Passport Authentication Project
 
 ## Giới thiệu
 Dự án này minh họa cách sử dụng **Express.js** và **Passport.js** để thực hiện chức năng **đăng ký, đăng nhập, hiển thị thông tin người dùng, và đăng xuất**.  
 Người dùng được lưu trong **MongoDB**, và các route được bảo vệ bằng middleware `isAuthenticated`.
-
----
 
 ## Cài đặt
 
