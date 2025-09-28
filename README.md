@@ -49,10 +49,10 @@ http://localhost:3000
 * Route: `GET /register` và `POST /register`
 * Cho phép người dùng đăng ký tài khoản mới
 
-![Register](http://localhost:3000/results/register.png)
+![Register](http://localhost:3000/public/results/register.png)
 
 * Sau khi đăng ký, có thể kiểm tra dữ liệu đã lưu trong MongoDB:
-  ![Show Users in MongoDB](http://localhost:3000/results/show_users_mongodb_register.png)
+  ![Show Users in MongoDB](http://localhost:3000/public/results/show_users_mongodb_register.png)
 
 ---
 
@@ -61,10 +61,10 @@ http://localhost:3000
 * Route: `GET /login` và `POST /login`
 * Xác thực người dùng qua **Passport Local Strategy**
 
-![Login](http://localhost:3000/results/login.png)
+![Login](http://localhost:3000/public/results/login.png)
 
 * Sau khi login, cookie lưu trong Postman:
-  ![Cookie after Login](http://localhost:3000/results/show_cookie_postman_login.png)
+  ![Cookie after Login](http://localhost:3000/public/results/show_cookie_postman_login.png)
 
 ---
 
@@ -73,7 +73,7 @@ http://localhost:3000
 * Route: `GET /profile`
 * Chỉ truy cập được khi đã login
 
-![Profile](http://localhost:3000/results/profile.png)
+![Profile](http://localhost:3000/public/results/profile.png)
 
 ---
 
@@ -82,7 +82,7 @@ http://localhost:3000
 * Route: `GET /logout`
 * Xoá session, redirect về trang login
 
-![Logout](http://localhost:3000/results/logout.png)
+![Logout](http://localhost:3000/public/results/logout.png)
 
 ---
 
