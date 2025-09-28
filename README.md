@@ -22,7 +22,7 @@ npm install
 ### 3. Chạy server
 
 ```bash
-npm start
+node app.js
 ```
 
 Mặc định server chạy tại:
